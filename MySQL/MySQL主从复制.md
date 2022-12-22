@@ -139,3 +139,5 @@ MySQL从5.6版本开始推出了GTID复制模式，GTID即全局事务ID (global
 		*  enforce-gtid-consistency=1  （必选）
 		*  log_bin=mysql-bin           （可选）    #高可用切换，最好开启该功能
 		*  log-slave-updates=1     （可选）       #高可用切换，最好打开该功能
+
+## End
